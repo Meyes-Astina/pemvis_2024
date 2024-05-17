@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+bismillahsoco
+</name>
+</assembly>
+<members>
+<member name="T:bismillahsoco.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.background1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Background2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Background3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Background4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.background5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Background6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.BALIK">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.blacksearch">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.CARI">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__10_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__11_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__12_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__13_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__14_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__15_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__2_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__21_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__22_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__23_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__24_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__28_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__8_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Desain_tanpa_judul__9_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.edt">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.hapus">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.hps">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.kembali">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__10_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__11_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__12_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__13_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__14_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__15_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__5_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__6_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__7_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__8_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.LOGIN__9_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.REGISTER">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.REGISTER__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.sebelumnya">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.SOCO1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.Tak_berjudul24_20240516143849">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.tambah">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.tamh">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:bismillahsoco.My.Resources.Resources.wishlist">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

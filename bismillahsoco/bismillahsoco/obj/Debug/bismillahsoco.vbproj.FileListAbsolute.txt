@@ -1,0 +1,89 @@
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.exe.config
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.exe
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.pdb
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.xml
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\bin\Debug\mysql.data.dll
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.AssemblyReference.cache
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form1.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form2.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form3.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Resources.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.GenerateResource.cache
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.CoreCompileInputs.cache
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismilla.563E3CC2.Up2Date
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.exe
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.xml
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.pdb
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form4.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form5.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form6.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form7.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form8.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form9.resources
+C:\Users\Luthfy\OneDrive\Documents\Visual Studio 2022\Templates\ProjectTemplates\Visual Basic\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form10.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.AssemblyReference.cache
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form1.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form10.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form2.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form3.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form4.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form5.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form6.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form7.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form8.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form9.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Resources.resources
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.GenerateResource.cache
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.CoreCompileInputs.cache
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.exe
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.xml
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.pdb
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.exe.config
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.exe
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.pdb
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.xml
+F:\Posttest PemVis\New folder\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismilla.563E3CC2.Up2Date
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.AssemblyReference.cache
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form1.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form10.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form2.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form3.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form4.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form5.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form6.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form7.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form8.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form9.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Resources.resources
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.GenerateResource.cache
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.CoreCompileInputs.cache
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.exe
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.xml
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.pdb
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.exe.config
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.exe
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.pdb
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.xml
+D:\SEMESTER 4\PA_PEMVIS\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismilla.563E3CC2.Up2Date
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.exe.config
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.exe
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.pdb
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\bin\Debug\bismillahsoco.xml
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.AssemblyReference.cache
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form1.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form10.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form2.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form3.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form4.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form5.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form6.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form7.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form8.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Form9.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.Resources.resources
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.GenerateResource.cache
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.vbproj.CoreCompileInputs.cache
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismilla.563E3CC2.Up2Date
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.exe
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.xml
+F:\2209106007_GABRIELLA CAESARIA VIANNEY.POSTTEST1\bismillahsoco\bismillahsoco\bismillahsoco\obj\Debug\bismillahsoco.pdb
